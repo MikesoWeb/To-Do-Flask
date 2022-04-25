@@ -21,7 +21,6 @@ db.create_all()
 @app.get('/')
 def home():
     todo_list = ToDo.query.all()
-    # todo_list = db.session.query(ToDo).all()
     return render_template('index.html', todo_list=todo_list, title='Главная страница')
 
 
