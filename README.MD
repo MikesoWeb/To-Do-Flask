@@ -19,14 +19,17 @@
 
 Создаем файлы и папки в проекте
     
+    md todo & cd todo
     md templates
     mkdir static\css
-    copy con .gitignore
-    copy con README.MD
-    copy con app.py
     echo .> templates/layout.html
     echo .> templates/index.html
     echo .> static/css/style.css
+
+    cd ..
+    copy con .gitignore
+    copy con README.MD
+    copy con app.py
 
 
 Устанавливаем flask и ORM SQLAlchemy
