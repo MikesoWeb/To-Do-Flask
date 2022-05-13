@@ -1,7 +1,7 @@
 Простой ToDo менеджер, реализованный на веб-фреймворке Flask
 В качестве веб-интерфейса использован фреймворк Semantic UI https://semantic-ui.com/
 
-
+![Image alt](https://sun9-87.userapi.com/s/v1/ig2/qoOIVsuNQnj2xPLBAtjqlJAA2V8widKcpeGjC8bwy3qCKQ_JAQsQFUwLkc31mSQaYNIun91Pw8QDfPeworrJ_xk1.jpg?size=1280x827&quality=96&type=album)
 
 **UPD 1.0**   _5.13.22_
 
